@@ -1,0 +1,6 @@
+{
+  "name": "HyperOS Gallery",
+  "description": "A feature-rich private gallery application with smooth gesture selection, month and date pinch zoom, offline video studio, albums, and personalized settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
